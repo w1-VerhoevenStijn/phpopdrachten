@@ -8,15 +8,15 @@
 ?>
 <!DOCTYPE html>
 <html>
-    <head>
+<head>
 
-    </head>
-    <body>
-        <p>
-            <?php
-            echo "Hello Word"
-            ?>
-            <a href="../index.php">Terug</a>
-        </p>
-    </body>
+</head>
+<body>
+<p>
+    <?php
+    echo "Hello Word"
+    ?>
+    <a href="../index.php">Terug</a>
+</p>
+</body>
 </html>
