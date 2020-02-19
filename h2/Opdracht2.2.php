@@ -30,6 +30,7 @@ $txt15 =" toch";
 
     </head>
     <body>
+    <h1>Opdracht 2.2</h1>
         <p>
             <a href="../index.php">Terug</a>
         </p>
