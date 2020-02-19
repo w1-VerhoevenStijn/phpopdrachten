@@ -17,7 +17,7 @@
     $provintie = "Friesland";
     $aantal = 15;
     $eerstekeer = 1909;
-    $keer = 1;
+    $keer =  1;
     $verhaal = "De".$evenement." (Fries:".$evenementfries.") is een ".$kilometer." kilometer lange".$tocht." over ".$ijs." die wordt georganiseerd door de ".
     $georganiseerddoor." ".$plaats.", de hoofdstad van ".$provintie.", is start-en aankomstplaats. De ".$evenement." is inmiddels ".$aantal." maal verreden
     en werd voor het eerst in ".$eerstekeer." gereden en word maximaal ".$keer." keer per winter gehouden.";
