@@ -34,6 +34,12 @@
                     <li>
                         <a href="h3/Opdracht3.1.php">Opdracht 3.1</a>
                     </li>
+                    <li>
+                        <a href="h3/Opdracht3.2.php">Opdracht 3.2</a>
+                    </li>
+                    <li>
+                        <a href="h3/Opdracht3.3.php">Opdracht 3.3</a>
+                    </li>
                 </ul>
             </li>
         </ul>
@@ -41,4 +47,7 @@
     <main id="wrapper">
         <h2>Uitwerkingen</h2>
     </main>
+    <div   class="footer">
+        &copy;Stijn Verhoeven
+    </div>
 </html>
