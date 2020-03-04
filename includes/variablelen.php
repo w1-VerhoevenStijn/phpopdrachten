@@ -1,5 +1,4 @@
 <?php
 $year = date("Y");
-$name = "Stijn Verhoeven";
-
+$name = "Stijn Verhoeven ";
 ?>

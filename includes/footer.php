@@ -1,10 +1,11 @@
-
 <?php
-echo '
-<footer>
-    &copy;Stijn Verhoeven
-</footer>';
+'<footer>'
+?>
+<?php
 include "variablelen.php";
 echo $name;
 echo $year;
+?>
+<?php
+'</footer>;'
 ?>
