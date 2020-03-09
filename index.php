@@ -13,6 +13,7 @@
     </head>
     <header>
         <h1><?php echo "Uitwerking van PHP-opdrachten"?></h1>
+        <link rel='stylesheet' href='includes/stylesheetfooter.css' type="text/css">
     </header>
     <aside>
         <h2>Menu</h2>
@@ -47,7 +48,7 @@
     <main id="wrapper">
         <h2>Uitwerkingen</h2>
     </main>
-    <div   class="footer">
-        &copy;Stijn Verhoeven
-    </div>
+    <footer>
+        Stijn Verhoeven
+    </footer>
 </html>

@@ -11,8 +11,8 @@ echo "
 <!DOCTYPE html>
 <html>
 <head>
-<link rel='stylesheet' href='stylesheetfooter.css'>
-<title>Opdracht 3.3</title>
+<link rel='stylesheet' href='../includes/stylesheetfooter.css'>
+<title></title>
     <meta charset=\"UTF-8\">
 </head>"
 ?>

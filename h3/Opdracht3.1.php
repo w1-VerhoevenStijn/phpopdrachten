@@ -21,7 +21,8 @@
     $verhaal = "De".$evenement." (Fries:".$evenementfries.") is een ".$kilometer." kilometer lange".$tocht." over ".$ijs." die wordt georganiseerd door de ".
     $georganiseerddoor." ".$plaats.", de hoofdstad van ".$provintie.", is start-en aankomstplaats. De ".$evenement." is inmiddels ".$aantal." maal verreden
     en werd voor het eerst in ".$eerstekeer." gereden en word maximaal ".$keer." keer per winter gehouden.";
-    $verhaal2 =$verhaal;
+    $verhaal2= "De $evenement (Fries:$evenementfries) is een $kilometer kilometer lange $tocht over $ijs die wordt georganiseerd door de  $georganiseerddoor $plaats, de hoofdstad van $provintie, is start-en aankomstplaats. De $evenement is inmiddels $aantal maal verreden
+    en werd voor het eerst in $eerstekeer gereden en word maximaal $keer keer per winter gehouden";
 
 ?>
 <!DOCTYPE html>
