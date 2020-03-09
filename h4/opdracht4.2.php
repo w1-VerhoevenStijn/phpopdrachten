@@ -1,11 +1,4 @@
-<?php
-/**
- * User: Stijn Verhoeven
- * Date: 8-3-2020
- * Time: 11:55
- * File: opdracht4.2.php
- */
-?>
+
 <?php
 include "../includes/header.php";
 include "../includes/variablelen.php";

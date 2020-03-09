@@ -43,6 +43,17 @@
                     </li>
                 </ul>
             </li>
+            <li>
+                Hoofdstuk 4
+                <ul>
+                    <li>
+                        <a href="h4/opdracht4.1.php">Opdracht 4.1</a>
+                    </li>
+                    <li>
+                        <a href="h4/opdracht4.2.php">Opdracht 4.2</a>
+                    </li>
+                </ul>
+            </li>
         </ul>
     </aside>
     <main id="wrapper">
