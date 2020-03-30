@@ -12,7 +12,6 @@ include "includes/header.php";
 ?>
 </head>
 <body>
-<div class=>
     <h1>Uitschijven Koning willem 1 college</h1>
     <hr>
     <table>
@@ -26,7 +25,7 @@ include "includes/header.php";
         </tr>
         <tr>
             <th>Datum van uitschrijving</th>
-            <td><?php echo $_GET["DaumUitschrijving"]; ?></td>
+            <td><?php echo $_GET["DatumUitschrijving"]; ?></td>
         </tr>
         <tr>
             <th>Reden van uitschrijving</th>
@@ -38,7 +37,7 @@ include "includes/header.php";
         </tr>
         <tr>
             <th>Aanmeldden bij de succesklas</th>
-            <td><?php echo $_GET["Aanmelden"]; ?></td>
+            <td><?php echo $_GET["succesklas"]; ?></td>
         </tr>
         <tr>
             <th>Verwijderen gegevens</th>

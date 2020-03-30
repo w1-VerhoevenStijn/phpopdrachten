@@ -38,5 +38,5 @@ include "includes/header.php";
     <input type="submit" name="verzenden" value="verzenden">
     </form>
 <?php
-include "includes/footer.php"
+include "includes/footer.php";
 ?>

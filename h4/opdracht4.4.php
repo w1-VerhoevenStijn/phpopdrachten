@@ -19,5 +19,5 @@ for($v=0; $v <8; $v++) {
 echo $test
 ?>
 <?php
-include "../Include/footer.php"
+include "../includes/footer.php"
 ?>

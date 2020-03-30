@@ -8,7 +8,7 @@
 ?>
 
 <?php
-include "includes/header.php"
+include "includes/header.php";
 ?>
     <form action="uitschrijving.php" method="get">
     <h1>Uitschrijfformulier Koning Willem 1 College</h1>
@@ -31,11 +31,11 @@ include "includes/header.php"
         </select><br>
 
         <label>Leerjaar</label><br>
-        <input name="Leerjaar" type="radio">1e leerjaar</input><br>
-        <input name="Leerjaar" type="radio">2e leerjaar</input><br>
-        <input name="Leerjaar" type="radio">3e leerjaar</input><br>
+        <input name="Leerjaar" type="radio" value="leerjaar 1">1e leerjaar</input><br>
+        <input name="Leerjaar" type="radio" value="leerjaar 2">2e leerjaar</input><br>
+        <input name="Leerjaar" type="radio" value="leerjaar 3">3e leerjaar</input><br>
 
-        <input name="Aanmelden" type="checkbox" value="ja">Ik wil me aanmeldden bij de succesklas<br>
+        <input name="succesklas" type="checkbox" value="ja">Ik wil me aanmeldden bij de succesklas<br>
         <input name="Verwijder" type="checkbox" value="ja">Verwijder mijn gegevens uit het systeem<br>
         <label>Geef hieronder de reden van je uitschrijving op</label><br>
         <input name="Bericht" type="text"><br>
@@ -43,5 +43,5 @@ include "includes/header.php"
         <input type="submit" name="verzenden" value="verzenden">
     </form>
 <?php
-include "includes/footer.php"
+include "includes/footer.php";
 ?>
