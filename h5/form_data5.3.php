@@ -9,14 +9,12 @@
 <?php
 include "includes/header.php";
 ?>
-<body>
-<div>
-    <?php
-    include "includes/functions.php";
+<?php
+    include "functions.php";
     $kans1op = getKans1op();
     $vergelijking = vergelijkOorzaken($kans1op);
 //Je kunt nu $vergelijking printen zodat het eruit ziet als het voorbeeld
-    ?>
+?>
     <table>
         <tr>
             <th>Vraag</th>
@@ -66,6 +64,4 @@ include "includes/header.php";
     <?php
     include "includes/footer.php"
     ?>
-</div>
-</body>
 
