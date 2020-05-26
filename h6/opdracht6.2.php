@@ -1,10 +1,4 @@
 <?php
-/**
- * User: milad
- * Date: 29-4-2020
- * Time: 13:07
- * File: Opdracht_6.2.php
- */
 ?>
 
 <?php

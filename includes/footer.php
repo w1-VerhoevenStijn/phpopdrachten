@@ -9,7 +9,7 @@ if ($uur > 0 && $uur <= 5) {
     $greeting = "Goedenavond";
 }
 
-session_start();
+
 if (isset($_SESSION['username'])) {
     $bezoeker = $_SESSION['username'] . "&nbsp;<a
 href='../h6/loguit.php'>Loguit</a>";
